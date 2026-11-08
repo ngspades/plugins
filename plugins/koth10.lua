@@ -15,7 +15,7 @@
 -- plugin is for the 1.0 server alone (first, before anything runs).
 game.supported_profiles("10")
 
-local mode = {name = "koth", wire = "ctf", mode = true}
+local mode = {name = "koth10", wire = "ctf", mode = true}
 
 local RADIUS = 8        -- blocks round the middle
 local HEIGHT = 6        -- and this far above or below its ground

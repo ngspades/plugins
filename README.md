@@ -22,19 +22,27 @@ names its original author (see [CREDITS.md](CREDITS.md)).
 
 3. Restart the server, or change the map: plugins load again with every map.
 
-A plugin that is a game mode (`tdm`, `koth`, `push`) is played with
-`--gamemode <name>` instead of being listed. Those three are for the 1.0
-server only (`game.supported_profiles("10")`): the 0.75 server
-(`--profile 075`) plays ctf and babel alone and refuses them. Every other
-plugin here runs on both servers.
+A plugin that is a game mode (`tdm10`, `koth10`, `push10`, `arena075`) is
+played with `--gamemode <name>` instead of being listed. `tdm10`, `koth10`
+and `push10` are for the 1.0 server only (`game.supported_profiles("10")`):
+the 0.75 server (`--profile 075`) refuses them. `arena075` is the other way
+round: it is a 0.75-only mode (`game.supported_profiles("075")`), a port of
+the pyspades/piqueserver arena script that builds and destroys the gates as
+ordinary blocks and moves players with teleports, the way the classic
+servers did. It is NOT the native 1.0 arena mode (`--gamemode arena` in a
+1.0 server, `Arena.c`): no arena HUD, no countdown keys, no refill path.
+On 0.75, `arena075` is the arena a 0.75 client and a 1.0 client (which falls
+back to 0.75 there) can play together. Every other plugin here runs on both
+servers.
 
 ## Plugins
 
 | Plugin | What it does | Kind |
 | --- | --- | --- |
-| [tdm](plugins/tdm.lua) | team deathmatch: every kill scores | mode (1.0 only) |
-| [koth](plugins/koth.lua) | king of the hill | mode (1.0 only) |
-| [push](plugins/push.lua) | capture the flag across the whole map | mode (1.0 only) |
+| [tdm10](plugins/tdm10.lua) | team deathmatch: every kill scores | mode (1.0 only) |
+| [koth10](plugins/koth10.lua) | king of the hill | mode (1.0 only) |
+| [push10](plugins/push10.lua) | capture the flag across the whole map | mode (1.0 only) |
+| [arena075](plugins/arena075.lua) | round-based elimination, last team standing wins the round | mode (0.75 only) |
 | [welcome](plugins/welcome.lua) | greets named players | extension |
 | [spawn_protect](plugins/spawn_protect.lua) | no damage for a few seconds after spawning | extension |
 | [rampage](plugins/rampage.lua) | 3 quick kills: restock, red sky, announced | extension |

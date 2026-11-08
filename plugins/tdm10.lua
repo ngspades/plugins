@@ -9,7 +9,7 @@
 -- plugin is for the 1.0 server alone (first, before anything runs).
 game.supported_profiles("10")
 
-local mode = {name = "tdm", wire = "ctf", mode = true}
+local mode = {name = "tdm10", wire = "ctf", mode = true}
 
 function mode.on_init()
     game.set_score(1, 0)

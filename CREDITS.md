@@ -17,6 +17,7 @@ for Shoot and Destroy's server and keep their original licence.
 | votekick | votekick.py | James Hofmann (triplefox) | pyspades | GPL-3.0 |
 | disco | disco.py | mat^2 (maintainer) | pyspades | GPL-3.0 |
 | daycycle | daycycle.py | hompy (maintainer) | pyspades | GPL-3.0 |
+| arena075 | arena.py | the piqueserver community ("Yourself" in the original header) | piqueserver | GPL-3.0 |
 
 These are not ports: they were written from scratch for Shoot and Destroy,
 inspired by ideas of the lsd server.

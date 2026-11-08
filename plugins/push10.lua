@@ -15,7 +15,7 @@
 -- plugin is for the 1.0 server alone (first, before anything runs).
 game.supported_profiles("10")
 
-local mode = {name = "push", wire = "ctf", rules = "ctf", mode = true}
+local mode = {name = "push10", wire = "ctf", rules = "ctf", mode = true}
 
 local TENT_IN = 0.15 -- the tent this share of the way in from the enemy's spawn
 
