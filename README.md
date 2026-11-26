@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.png" alt="NEXGEN SPADES plugins" width="100%"></p>
+
 # Shoot and Destroy plugins
 
 Lua plugins for Shoot and Destroy servers. A plugin changes how the whole
