@@ -1,6 +1,6 @@
 -- spawn_protect: a player who just spawned cannot be hurt for a few seconds.
 --
--- Ported to Lua for Shoot and Destroy from spawn_protect.py (PySnip
+-- Ported to Lua for Nexgen Spades from spawn_protect.py (PySnip
 -- feature_server/scripts). Original licence: GPL-3.0.
 --
 -- config.toml:

@@ -1,6 +1,6 @@
 -- push: capture the flag across the whole map. A game mode: --gamemode push.
 --
--- Ported to Lua for Shoot and Destroy from push.py (pyspades), by danhezee,
+-- Ported to Lua for Nexgen Spades from push.py (pyspades), by danhezee,
 -- StackOverflow, izzy, Danke, noway421 and IAmYourFriend. Original licence:
 -- GPL-3.0. The original reads the spawns and control points from the map's
 -- extensions; this port puts them by each team's spawn.

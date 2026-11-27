@@ -1,6 +1,6 @@
 -- daycycle: the sky moves slowly from day to sunset to night and back.
 --
--- Ported to Lua for Shoot and Destroy from daycycle.py (pyspades), maintained
+-- Ported to Lua for Nexgen Spades from daycycle.py (pyspades), maintained
 -- by hompy. Original licence: GPL-3.0. The original interpolated a 24-hour
 -- colour table; this shorter version keeps the same idea without a 24-hour
 -- clock (a handheld match is minutes, not a day).

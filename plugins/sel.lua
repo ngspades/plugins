@@ -2,7 +2,7 @@
 -- clear it, copy and paste it, undo the last change.
 --
 -- Inspired by lsd's sel.lua (totallynotaburner, https://66.135.15.57/lsd)
--- and WorldEdit; written from scratch for Shoot and Destroy. Best in the
+-- and WorldEdit; written from scratch for Nexgen Spades. Best in the
 -- creative mode, but it works in any mode on the cells the mode and the
 -- map let change.
 --
