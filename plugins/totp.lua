@@ -3,7 +3,7 @@
 -- Authenticator, Aegis or 1Password show) besides its password.
 --
 -- Inspired by lsd's admin TOTP (totallynotaburner, https://66.135.15.57/lsd);
--- written from scratch for Nextgen Spades.
+-- written from scratch for Nexgen Spades.
 --
 -- How to log in: first `/otp 123456`, then `/login admin <password>`
 -- within `window` seconds. A role without a secret logs in as before.

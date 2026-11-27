@@ -1,6 +1,6 @@
 -- medkit: a small heal carried from spawn, used with /medkit.
 --
--- Ported to Lua for Nextgen Spades from medkit.py (PySnip
+-- Ported to Lua for Nexgen Spades from medkit.py (PySnip
 -- feature_server/scripts), by Booboorocks998, maintained by mat^2.
 -- Original licence: GPL-3.0.
 --

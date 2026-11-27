@@ -1,6 +1,6 @@
 -- welcome: greets the players named in the config when they join.
 --
--- Ported to Lua for Nextgen Spades from welcome.py (PySnip
+-- Ported to Lua for Nexgen Spades from welcome.py (PySnip
 -- feature_server/scripts), maintained by mat^2. Original licence: GPL-3.0.
 --
 -- config.toml:

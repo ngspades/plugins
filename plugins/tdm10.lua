@@ -2,7 +2,7 @@
 -- team; the first team to the map's score limit (capture_limit in its toml)
 -- wins. A game mode: --gamemode tdm.
 --
--- Ported to Lua for Nextgen Spades from tdm.py (PySnip
+-- Ported to Lua for Nexgen Spades from tdm.py (PySnip
 -- feature_server/scripts), maintained by Triplefox. Original licence: GPL-3.0.
 
 -- A Lua game mode: the 0.75 server plays only ctf and babel, so this

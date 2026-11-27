@@ -1,6 +1,6 @@
 -- koth: king of the hill. A game mode: --gamemode koth.
 --
--- Written for Nextgen Spades after koth.py / koth_script.py (aloha.pk's
+-- Written for Nexgen Spades after koth.py / koth_script.py (aloha.pk's
 -- redistribution of Ace of Spades community scripts), which only switched
 -- pyspades to territorial control; the hill and its points are ours.
 -- Licence: GPL-3.0.

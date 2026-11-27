@@ -1,6 +1,6 @@
 -- disco: /disco (staff) cycles the sky through bright colours.
 --
--- Ported to Lua for Nextgen Spades from disco.py (pyspades), maintained by
+-- Ported to Lua for Nexgen Spades from disco.py (pyspades), maintained by
 -- mat^2. Original licence: GPL-3.0.
 --
 -- The server-wide fog is changed every `interval` seconds and restored when

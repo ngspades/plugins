@@ -1,7 +1,7 @@
 <<<<<<< Updated upstream
 <p align="center"><img src="docs/banner.png" alt="NEXGEN SPADES plugins" width="100%"></p>
 
-# Nextgen Spades plugins
+# Nexgen Spades plugins
 =======
 # ngspades plugins
 >>>>>>> Stashed changes

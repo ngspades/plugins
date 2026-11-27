@@ -2,7 +2,7 @@
 
 These come from the collections credited in [CREDITS.md](../CREDITS.md):
 ace-of-spades-scripts, pyspades-userscripts, PySnip and piqueserver-extras.
-They are not ported because they do not apply to Nextgen Spades, or
+They are not ported because they do not apply to Nexgen Spades, or
 cannot. Everything else is being ported, in batches.
 
 | Scripts | Why |

@@ -1,6 +1,6 @@
 # Plugin API
 
-This is the contract between a plugin and the Nextgen Spades server.
+This is the contract between a plugin and the Nexgen Spades server.
 
 ## The file
 

@@ -2,7 +2,7 @@
 -- rampage for 20 seconds: a full restock, a red sky (blinking in its last 3
 -- seconds) and an announcement; whoever ends it is announced too.
 --
--- Ported to Lua for Nextgen Spades from rampage.py (PySnip
+-- Ported to Lua for Nexgen Spades from rampage.py (PySnip
 -- feature_server/scripts), maintained by hompy. Original licence: GPL-3.0.
 -- Not ported yet: the faster rate of fire, which needs the server to let a
 -- player shoot faster than its gun (it comes with the rapid plugin).
