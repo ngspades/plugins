@@ -1,6 +1,6 @@
 -- votekick: /votekick <player> <reason>, /y, /cancel.
 --
--- Ported to Lua for Shoot and Destroy from votekick.py (pyspades), by
+-- Ported to Lua for Nextgen Spades from votekick.py (pyspades), by
 -- James Hofmann (triplefox), 2012. Original licence: GPL-3.0.
 --
 -- Staff are immune, a bot cannot be voted, one vote runs at a time, and an

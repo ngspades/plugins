@@ -2,7 +2,7 @@
 -- restarts, so staff can see who a new name was before.
 --
 -- Inspired by lsd's alias tracking (totallynotaburner, https://66.135.15.57/lsd);
--- written from scratch for Shoot and Destroy.
+-- written from scratch for Nextgen Spades.
 --
 --   /aliases <player>   names joined from that player's address
 --   /aliases <address>  names joined from that address

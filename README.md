@@ -1,7 +1,7 @@
 <<<<<<< Updated upstream
 <p align="center"><img src="docs/banner.png" alt="NEXGEN SPADES plugins" width="100%"></p>
 
-# Shoot and Destroy plugins
+# Nextgen Spades plugins
 =======
 # ngspades plugins
 >>>>>>> Stashed changes

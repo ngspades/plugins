@@ -3,7 +3,7 @@
 The plugins here are mostly Lua ports of scripts written by the Ace of
 Spades community for pyspades, PySnip and piqueserver. The ideas and the
 original code belong to their authors, listed below. The ports are written
-for Shoot and Destroy's server and keep their original licence.
+for Nextgen Spades's server and keep their original licence.
 
 | Plugin | Original | Author(s) | Source | Licence |
 | --- | --- | --- | --- | --- |
@@ -19,7 +19,7 @@ for Shoot and Destroy's server and keep their original licence.
 | daycycle | daycycle.py | hompy (maintainer) | pyspades | GPL-3.0 |
 | arena075 | arena.py | the piqueserver community ("Yourself" in the original header) | piqueserver | GPL-3.0 |
 
-These are not ports: they were written from scratch for Shoot and Destroy,
+These are not ports: they were written from scratch for Nextgen Spades,
 inspired by ideas of the lsd server.
 
 | Plugin | Inspired by | Author(s) | Source |
