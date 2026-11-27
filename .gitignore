@@ -1,0 +1,9 @@
+
+# build outputs and local leftovers (see AGENTS.md "Build folders")
+.DS_Store
+__pycache__/
+*.pyc
+*.dSYM/
+build/
+build-*/
+dist/
