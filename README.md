@@ -1,8 +1,12 @@
+<<<<<<< Updated upstream
 <p align="center"><img src="docs/banner.png" alt="NEXGEN SPADES plugins" width="100%"></p>
 
 # Shoot and Destroy plugins
+=======
+# ngspades plugins
+>>>>>>> Stashed changes
 
-Lua plugins for Shoot and Destroy servers. A plugin changes how the whole
+Lua plugins for ngspades servers. A plugin changes how the whole
 server plays: a game mode, a mechanic (airstrikes, rampages, spawn
 protection), an admin or a building tool. Several plugins run together,
 each able to refuse or change what happens, the way pyspades / PySnip
