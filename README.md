@@ -1,10 +1,6 @@
-<<<<<<< Updated upstream
 <p align="center"><img src="docs/banner.png" alt="NEXGEN SPADES plugins" width="100%"></p>
 
 # Nexgen Spades plugins
-=======
-# ngspades plugins
->>>>>>> Stashed changes
 
 Lua plugins for ngspades servers. A plugin changes how the whole
 server plays: a game mode, a mechanic (airstrikes, rampages, spawn
