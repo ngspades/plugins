@@ -72,6 +72,12 @@ To see what a plugin did, run the server with `SP_EVENTLOG=1`. Each
 `game.log` call is written as an `EVT ... plugin action=log` line. To try
 plugins without editing the config, set `SP_PLUGINS=a,b`.
 
+## Community
+
+Join the official **Nexgen Spades** Discord to play, get help and share what you build: <https://discord.gg/vfknrFQr2>
+
+Where it all began: the **Build and Shoot** Discord, home of the Ace of Spades community: <https://discord.gg/Cbda3DtJR>
+
 ## Licence
 
 GPL-3.0, like the scripts these come from. Each ported plugin keeps its
